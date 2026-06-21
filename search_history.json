@@ -1,0 +1,91 @@
+[
+  {
+    "timestamp": "22 Jun 2026  02:21",
+    "category": "Careers",
+    "skills": [
+      "AWS",
+      "Flutter",
+      "Cloud"
+    ],
+    "ratings": {
+      "aws": 3,
+      "flutter": 3,
+      "cloud": 3
+    },
+    "top_result": "Cloud Architect"
+  },
+  {
+    "timestamp": "22 Jun 2026  02:13",
+    "category": "Movies",
+    "skills": [
+      "React",
+      "JavaScript",
+      "Transformers",
+      "Cloud",
+      "Web Development",
+      "Java"
+    ],
+    "ratings": {
+      "react": 3,
+      "javascript": 3,
+      "transformers": 3,
+      "cloud": 3,
+      "web development": 3,
+      "java": 3
+    },
+    "top_result": "The Social Network"
+  },
+  {
+    "timestamp": "22 Jun 2026  02:13",
+    "category": "Books",
+    "skills": [
+      "React",
+      "JavaScript",
+      "Transformers",
+      "Cloud",
+      "Web Development",
+      "Java"
+    ],
+    "ratings": {
+      "react": 3,
+      "javascript": 3,
+      "transformers": 3,
+      "cloud": 3,
+      "web development": 3,
+      "java": 3
+    },
+    "top_result": "You Don't Know JS"
+  },
+  {
+    "timestamp": "22 Jun 2026  02:09",
+    "category": "Careers",
+    "skills": [
+      "AWS",
+      "React",
+      "JavaScript"
+    ],
+    "ratings": {
+      "aws": 3,
+      "react": 3,
+      "javascript": 3
+    },
+    "top_result": "Frontend Developer"
+  },
+  {
+    "timestamp": "22 Jun 2026  01:53",
+    "category": "Careers",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "AWS",
+      "JavaScript"
+    ],
+    "ratings": {
+      "python": 3,
+      "machine learning": 3,
+      "aws": 3,
+      "javascript": 3
+    },
+    "top_result": "AI Research Intern"
+  }
+]
